@@ -1,6 +1,7 @@
 # Hypothesis-Testing
 This project involves the application of hypothesis testing on different artificial datasets. 
 The types of tests are 
+
 1- Normality Tests, 
 
 1.1-Variance Tests, 
